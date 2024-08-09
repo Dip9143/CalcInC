@@ -23,11 +23,10 @@ This is a basic calculator program written in C. It can do addition, subtraction
 
 ## Example
 
-Simple Calculator
-Enter the operator (+, -, /, *): +
-Enter the numbers: 5 3
-
-5 + 3 = 8.00
+-Simple Calculator
+-Enter the operator (+, -, /, *): +
+-Enter the numbers: 5 3
+-5 + 3 = 8.00
 
 
 ## Author
