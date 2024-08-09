@@ -26,6 +26,7 @@ This is a basic calculator program written in C. It can do addition, subtraction
 Simple Calculator
 Enter the operator (+, -, /, *): +
 Enter the numbers: 5 3
+
 5 + 3 = 8.00
 
 
